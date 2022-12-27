@@ -1,6 +1,6 @@
 # 前端 React仿Instagram 專案
 
-有使用到 : TailwindCSS , Routes , Redux , Hook
+使用到 : TailwindCSS , Routes , Redux , Hook
 
 ## 如何使用此專案？
 
